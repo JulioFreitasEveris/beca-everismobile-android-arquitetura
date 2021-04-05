@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
                 holidayAdapter.notifyDataSetChanged()
             })
     }
-
+//holidayInitUI
     private fun initUI() {
         binding.rvHolidayList.setHasFixedSize(true);
         val layoutManager = LinearLayoutManager(this)

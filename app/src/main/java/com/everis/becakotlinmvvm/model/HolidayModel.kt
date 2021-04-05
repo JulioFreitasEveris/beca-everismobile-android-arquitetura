@@ -1,4 +1,4 @@
-package com.everis.becakotlinmvvm.view
+package com.everis.becakotlinmvvm.model
 
 class HolidayModel {
     var date:String? = null

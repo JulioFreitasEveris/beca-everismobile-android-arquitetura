@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.everis.becakotlinmvvm.repository.HolidayRepository
-import com.everis.becakotlinmvvm.view.HolidayModel
+import com.everis.becakotlinmvvm.model.HolidayModel
 
 class HolidayViewModel: ViewModel() {
     
